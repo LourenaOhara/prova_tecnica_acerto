@@ -1,6 +1,6 @@
 # Atividade técnica | Quality Assurance Senior
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="buger.png" alt="Exemplo imagem">
 
 > Exercício 3 - Teste Automatizado - Utilizando o site burguer-eats(https://buguer-eats.vercel.app/), elabore dois casos de testes utilizando boas práticas de testes automatizados. Por exemplo; Page Object.
 
